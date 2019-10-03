@@ -1,0 +1,8 @@
+odoo-web-data/*
+odoo-db-data/* 
+.env
+docker-compose.override.yml
+*-prod.conf
+*.pyc
+config/nginx/*
+.vscode/
